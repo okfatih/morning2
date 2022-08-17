@@ -20,6 +20,7 @@ public class Pull {
         tekrar git add . gerek yok onun yerine
         git  commit -a -m"" kodunu girebiliriz
         Not: git log --oneline commitlerimin son durumunu gösterir
+        Nog steeds lastig
          */
      public static void main(String[] args) {
          System.out.println("fatih");
